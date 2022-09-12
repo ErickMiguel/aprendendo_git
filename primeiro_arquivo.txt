@@ -1,0 +1,2 @@
+Aprendendi algumas coisas sobre sistemas de Pull, Push, Push request, deploy (E sua automatização).
+Além é claro de ter entendido melhor sobre o git e como ele funciona no geral.
